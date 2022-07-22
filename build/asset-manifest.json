@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/arq-arias/static/css/main.92eb83b4.css",
+    "main.js": "/arq-arias/static/js/main.8b2671c7.js",
+    "static/media/logo-removebg.png": "/arq-arias/static/media/logo-removebg.8cb72efdb2ab96952ae7.png",
+    "static/media/arquitectura2.jpg": "/arq-arias/static/media/arquitectura2.863e6a0617d7ebf89cad.jpg",
+    "static/media/casaAmericana.jpg": "/arq-arias/static/media/casaAmericana.b53ff3fdcb4e29259e89.jpg",
+    "static/media/logo-removebg-preview.png": "/arq-arias/static/media/logo-removebg-preview.1515cce9431e54e7c58c.png",
+    "static/media/arquitectura1.jpg": "/arq-arias/static/media/arquitectura1.3ba0e96a590f8c55b69a.jpg",
+    "static/media/edificio.jpg": "/arq-arias/static/media/edificio.ba650870edd502c447cc.jpg",
+    "static/media/quincho.jpg": "/arq-arias/static/media/quincho.e362dafab13ad238c82f.jpg",
+    "static/media/arquitectura3.jpg": "/arq-arias/static/media/arquitectura3.5fcf070ee42c4a47343e.jpg",
+    "index.html": "/arq-arias/index.html",
+    "main.92eb83b4.css.map": "/arq-arias/static/css/main.92eb83b4.css.map",
+    "main.8b2671c7.js.map": "/arq-arias/static/js/main.8b2671c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92eb83b4.css",
+    "static/js/main.8b2671c7.js"
+  ]
+}
