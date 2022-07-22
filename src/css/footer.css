@@ -1,0 +1,12 @@
+.logo-img-footer{
+    height: 150px;
+    width: 300px;
+    border-radius: 10%;
+}
+.text-color{
+    color: antiquewhite;
+}
+.footer{
+    border-bottom: 2px solid white;
+    margin-bottom: 0px;
+}

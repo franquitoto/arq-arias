@@ -1,0 +1,14 @@
+/* .navBar{
+    background: red !important;
+} */
+.color-text{
+    color: antiquewhite !important;
+}
+.carrousel-text{
+    color: black;
+}
+.logo-nav{
+    height: 100px;
+    width: 200px;
+    border-radius: 10%;
+}
