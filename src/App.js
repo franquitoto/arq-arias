@@ -10,7 +10,7 @@ import Footer from './componentes/Footer'
 import Copyright from './componentes/Copyright';
 import Inicio from './views/Inicio/Inicio';
 import Nosotros from './views/Nosotros/Nosotros';
-/// comentar
+/// comentarios
 
 function App() {
   return (
